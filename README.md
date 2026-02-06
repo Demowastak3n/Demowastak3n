@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im Demir👋
 
 ### 👨‍💻 About Me
 - 🚀 I'm currently learning **Python** , **C** and **C++** ... .
@@ -11,4 +11,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Demir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
